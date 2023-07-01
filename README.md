@@ -1,4 +1,4 @@
-# hotel-booking-system
+# Hotel Booking System
 This project is multi-faceted and incorporates various modern technologies to facilitate an engaging and efficient user experience.
 
 On the client-side, we're using a combination of HTML, CSS, and JavaScript. HTML (HyperText Markup Language) serves as the backbone of our web application, structuring our content in a meaningful and accessible way. CSS (Cascading Style Sheets), on the other hand, is used to create a visually appealing interface, controlling layout, color schemes, fonts, and other aesthetic aspects of the site. We're using JavaScript to add dynamic and interactive features, enhancing user interaction and overall user experience.
